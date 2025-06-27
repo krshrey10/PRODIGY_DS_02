@@ -12,7 +12,8 @@ Exploratory data analysis of passenger survival on the Titanic.
 ## How to Run in Google Colab
 
 'from google.colab import files
-uploaded = files.upload()  # Select titanic.csv'
+uploaded = files.upload() 
+# Select titanic.csv'
 
 ## Dataset
 
